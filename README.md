@@ -1,6 +1,6 @@
 # Laparoscopic Trainer
 
-The software of a laparoscopic trainer system requested by a professor of the departament of medicine of Federal University of Rio Grande do Norte (UFRN).
+The software of a laparoscopic trainer system requested by a professor of the department of medicine of Federal University of Rio Grande do Norte (UFRN).
 
 
 #### Objective:
@@ -17,7 +17,7 @@ Create a platform where students can practice depth perception.
 
 #### How to use it
 
-The final version will use a device made by the Mechatronics Departament of UFRN. The device will simulate the tools inside a patient, but in the development version of the software you can use the keyboard.
+The final version will use a device made by the Mechatronics Department of UFRN. The device will simulate the tools inside a patient, but in the development version of the software you can use the keyboard.
 
 
 ## Keybindings
