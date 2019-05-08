@@ -34,7 +34,7 @@ The final version will use a device made by the Mechatronics Departament of UFRN
 | Open grabber   | Left Shift   |
 |  Close grabber    |  Left Ctrl   |
 
-#### Left Tool
+#### Right Tool
 |Action  |Key |
 | ------------- | -----:|
 | Forward     |  O   |
