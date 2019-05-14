@@ -19,7 +19,12 @@ scene.add( axesHelper );
 let lap = new Laparoscopic(scene);
 
 lap.init();
-lap.createTarget(1);
+
+var geometry = new THREE.DodecahedronGeometry(1);
+var material = new THREE.MeshBasicMaterial( {color: 0xffff00} );
+var rock = new THREE.Mesh( geometry, material );
+
+lap.createTarget(rock, "rock", 1, "hold");
 
 camera.position.z = 30;
 camera.position.y = 20;
