@@ -11,7 +11,7 @@ Create a platform where students can practice depth perception.
 |Lessons     | Progress |
 | ------------- | -----:|
 | Lesson 1      | 95%    |
-| Lesson 2      | 0%    |
+| Lesson 2      | 80%    |
 | Lesson 3      | 0%    |
 
 
