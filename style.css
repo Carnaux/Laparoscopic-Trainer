@@ -13,6 +13,13 @@
 
     font-size: 30px;
 }
+#lesson2{
+    position: absolute;
+    top: 350px;
+    left: 600px;
+
+    font-size: 30px;
+}
 
 #warning{
     position: absolute;
